@@ -171,5 +171,5 @@ dist
 # IntelliJ based IDEs
 .idea
 
-outputData/*
-inputData/*
+inputData/btc_pay_invoice_export.json
+outputData/extracted_emails.json
