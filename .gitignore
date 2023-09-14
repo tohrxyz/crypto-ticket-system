@@ -171,5 +171,5 @@ dist
 # IntelliJ based IDEs
 .idea
 
-outputData/*
-inputData/*
+# outputData/*
+# inputData/*
